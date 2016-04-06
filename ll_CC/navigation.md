@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# Game music favorites
 
 
 <!--
@@ -11,7 +11,33 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](spacelab)
+<!-- *Followings are available themes 
+Cerulean
+Cerulean
+Cosmo
+Cyborg
+Darkly
+Flatly
+Journal
+Lumen
+Paper
+Readable
+Sandstone
+Simplex
+Slate
+Spacelab
+Superhero
+United
+Yeti
+React
+Zerif
+Kingboard
+HTML & CSS
+Eloquent JavaScript
+Beautiful Web Design
+-->
+<!--[gimmick:theme](spacelab)-->
+[gimmick:theme](united)
 
 
 <!--
@@ -19,8 +45,8 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
-[Download](pages/download.md)
+[List of music](pages/music.md)
+<!--[Download](pages/download.md)-->
 
 <!-- A more complex navigation example: ----------------------------------------
 
